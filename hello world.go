@@ -1,11 +1,15 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"log"
+)
 
-func main(){
+func main() {
 	fmt.Println("Hello World!!!!")
-	fmt.Println("Commiting changes o git repo.")
+	fmt.Println("Commiting changes to git repo.")
 	fmt.Println("first line")
 	fmt.Println("Second Line")
 	fmt.Println("Third Line")
+	log.Println("Hello there")
 }
