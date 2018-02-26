@@ -14,4 +14,5 @@ func main() {
 	log.Println("Hello there")
 	log.Println("New Line")
 	fmt.Println(" turned off autofetch!!!!!!!!!!")
+	fmt.Println("One more line")
 }
