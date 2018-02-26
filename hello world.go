@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"log"
 )
 
 func main() {
@@ -11,8 +10,5 @@ func main() {
 	fmt.Println("first line")
 	fmt.Println("Second Line")
 	fmt.Println("Third Line")
-	log.Println("Hello there")
-	log.Println("New Line")
-	fmt.Println(" turned off autofetch!!!!!!!!!!")
-	fmt.Println("One more line")
+	fmt.Println("Making a new branch")
 }
