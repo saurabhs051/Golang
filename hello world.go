@@ -7,4 +7,5 @@ func main(){
 	fmt.Println("Commiting changes o git repo.")
 	fmt.Println("first line")
 	fmt.Println("Second Line")
+	fmt.Println("Third Line")
 }
