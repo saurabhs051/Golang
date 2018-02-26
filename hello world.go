@@ -12,4 +12,5 @@ func main() {
 	fmt.Println("Second Line")
 	fmt.Println("Third Line")
 	log.Println("Hello there")
+	log.Println("New Line")
 }
