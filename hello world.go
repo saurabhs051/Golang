@@ -10,5 +10,5 @@ func main() {
 	fmt.Println("first line")
 	fmt.Println("Second Line")
 	fmt.Println("Third Line")
-	fmt.Println("Making a new branch. Change in new branch.")
+	fmt.Println("Making a new branch. Change in new branch. And another")
 }
