@@ -8,7 +8,7 @@ import (
 
 func firstpage_handler(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, `<h1  style='color:red'>This is a running Go web server.</h1>
-		<h2><p>A  new paragraph</p></h2>`)
+		<h2><p>A  new paragraph</p></h2>`) //html page
 }
 
 func main() {
