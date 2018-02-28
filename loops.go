@@ -37,7 +37,7 @@ func main() {
 	// 	}
 	// }
 	////////////////////////////////////////////
-	fmt.Println(" List of sites : ")
+	fmt.Println(" List of sites are as follows : ")
 	resp, _ := http.Get("https://www.washingtonpost.com/news-sitemap-index.xml") //Accessing nd getting sitemap
 	bytes, _ := ioutil.ReadAll(resp.Body)                                        //Reading the received sitemap as bytes
 	var s SitemapIndex
