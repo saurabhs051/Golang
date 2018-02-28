@@ -1,3 +1,5 @@
+//structures in Go
+
 package main
 
 import "fmt"

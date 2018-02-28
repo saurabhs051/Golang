@@ -1,3 +1,5 @@
+//methods in structres
+
 package main
 
 import "fmt"
